@@ -1,6 +1,6 @@
 {
   "name": "video-splash",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Adds splash screen to a video with ffmpeg",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "https://github.com/jsantell/node-video-splash"
   },
   "bin": {
-    "video-splash": "./bin/video-splash.js"
+    "video-splash": "./bin/video-splash"
   },
   "keywords": [
     "ffmpeg",

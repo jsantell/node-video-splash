@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var splash = process.argv[2];
+var input = process.argv[3];
+var output = process.argv[4] || 'output.mp4';
+var duration = 1;
+
+require('../')(splash, input, output, duration);
+

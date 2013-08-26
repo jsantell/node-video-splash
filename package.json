@@ -1,5 +1,5 @@
 {
-  "name": "node-video-splash",
+  "name": "video-splash",
   "version": "0.0.0",
   "description": "Adds splash screen to a video with ffmpeg",
   "main": "index.js",
